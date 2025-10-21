@@ -4,8 +4,9 @@
 #### Meu nome é Beatriz Cardozo, tenho 26 anos, gosto de gatos e de aprender novas tecnologias. Meus pronomes: ele/ela - My name is Beatriz Cardozo, i have 26 years, i like cats and learning new technology. My pronouns: he/she.🐾📚
 
 ## 👨🏾‍🎓Minhas Formações - Training Courses:
-- Técnico Subsequente em Informática, pela EETEPA IEEP (2023-2024) - Subsequent Technician in Computing.
 - Curso Superior Tecnólogo em Análise e Desenvolvimento de Sistema, pela Faci Wyden (2025- ) - Technologist Diploma in System Analysis and Development.
+- Técnico Subsequente em Informática, pela EETEPA IEEP (2023-2024) - Subsequent Technician in Computing.
+
 ---
 ## 🖥️Linguagens e Tecnologias - Languages ​​and Technologies:
 
